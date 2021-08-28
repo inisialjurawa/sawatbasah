@@ -6,7 +6,7 @@ var dataUrl = [
 "https://dev-neoflimfj.pantheonsite.io/",
 "https://dev-neofilmfj.pantheonsite.io/",
 "https://dev-filmfj.pantheonsite.io/",
-"https://playfjs.blogspot.com/",
+"https://playfjs.blogspot.com/"
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem + param;
