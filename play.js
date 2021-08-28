@@ -8,7 +8,7 @@ var dataUrl = [
 "https://dev-filmflixss.pantheonsite.io/",
 "https://dev-neoflimfj.pantheonsite.io/",
 "https://dev-filmk32.pantheonsite.io/",
- "https://bo.1st.yt/register.php?do=search&q=",
+"https://playfjs.blogspot.com/",
 "https://dev-filmk21.pantheonsite.io"
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
