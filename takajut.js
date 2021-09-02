@@ -9,7 +9,13 @@ var dataUrl = [
 '//wonderfullytumultbizarre.com/n970yii7c?key=434c6176282b18468a76f961e6a21764',
 '//wonderfullytumultbizarre.com/y425t3d5k?key=b0d195ca768aeab7d18aad598d71b0b0',
 '//wonderfullytumultbizarre.com/nuudznpz3?key=3d998b3da5397f5ac865ff0734c2be19',
-'//wonderfullytumultbizarre.com/uqf9166i4v?key=6863b7b7d27f7caf1b440a90c37c2ffb'
+'//wonderfullytumultbizarre.com/uqf9166i4v?key=6863b7b7d27f7caf1b440a90c37c2ffb',
+'//wonderfullytumultbizarre.com/ciwpm0hb7q?key=7f0434e3ed63cbba143ee2860b19fd5a',
+'//sergeantunhealthy.com/jdh7sy92?key=678ee6ec00a7dbcc74458748c5cbaa1f',
+'//capriceprop.com/p7wmzw69b6?key=8805a733dfbadc5f61cfab21de124b2a',
+'//capriceprop.com/dug7h0p8?key=aae9ffd149babf83a81f2c0eab30300f',
+'//capriceprop.com/jgh102dr2?key=294998ba132dc55926b6299c93ebf70f',
+'//capriceprop.com/jbjxyg1z?key=4de9306964f4da59cc607f8c3b7a1be0'
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
