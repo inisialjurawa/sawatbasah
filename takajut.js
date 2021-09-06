@@ -11,7 +11,7 @@ var dataUrl = [
 '//wonderfullytumultbizarre.com/nuudznpz3?key=3d998b3da5397f5ac865ff0734c2be19',
 '//wonderfullytumultbizarre.com/uqf9166i4v?key=6863b7b7d27f7caf1b440a90c37c2ffb',
 '//wonderfullytumultbizarre.com/ciwpm0hb7q?key=7f0434e3ed63cbba143ee2860b19fd5a',
-'//wonderfullytumultbizarre.com/h9wh6gqgf?key=83df023c116b0886f39e57dbd5e916f1',
+'//wonderfullytumultbizarre.com/h9wh6gqgf?key=83df023c116b0886f39e57dbd5e916f1'
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
