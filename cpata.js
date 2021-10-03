@@ -1,7 +1,7 @@
 var dataUrl = [
-'//wavermerchandiseweird.com/ciwpm0hb7q?key=7f0434e3ed63cbba143ee2860b19fd5a',
-'//wavermerchandiseweird.com/ezuq8wdg?key=abe65c5f1fac7c85a5e79772f3e4b4ab',
-'//wavermerchandiseweird.com/h9wh6gqgf?key=83df023c116b0886f39e57dbd5e916f1',
+'//wavermerchandiseweird.com/rmdh7vzvs?key=ed9adfc3b8491179ad53c3e027d8b8a9',
+'//wavermerchandiseweird.com/qqqysyvbg?key=1d3303b4d7decb61514e9d25a740edfe',
+'//wavermerchandiseweird.com/nuudznpz3?key=3d998b3da5397f5ac865ff0734c2be19',
 '//wavermerchandiseweird.com/idt1y6nan?key=ce537f67a6c57e27e292db0da8179851',
 '//wavermerchandiseweird.com/jrzhg39q?key=c57734d92ebaa11a56b389a5ea6dd78e',
 '//wavermerchandiseweird.com/k78nwxfv?key=e668079d92f5c385e97d9e9f30beedd3',
