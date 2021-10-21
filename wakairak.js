@@ -6,8 +6,7 @@ var dataUrl = [
 'https://wavermerchandiseweird.com/qqqysyvbg?key=1d3303b4d7decb61514e9d25a740edfe',
 'https://wavermerchandiseweird.com/ciwpm0hb7q?key=7f0434e3ed63cbba143ee2860b19fd5a',
 'https://wavermerchandiseweird.com/tuf9tdkp?key=6729f99d594d33885cec1eb3981e92ac',
-'https://wavermerchandiseweird.com/idt1y6nan?key=ce537f67a6c57e27e292db0da817985'
-  
+'https://wavermerchandiseweird.com/idt1y6nan?key=ce537f67a6c57e27e292db0da817985' 
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
