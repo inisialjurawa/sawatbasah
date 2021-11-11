@@ -1,6 +1,7 @@
+var urlmain = document.URL;
+var param = document.URL.split("/")[3].replace("?m=1","").replace("?m=0","");
 var dataUrl = [
-'https://wavermerchandiseweird.com/a8bdifyf?key=48e6c2ef69984c23a22ba95e4592b445',
-'https://goshbiopsy.com/dvht8izcgt?key=8aa21e6e59d2d02685c3f44094cdbcac'
+"https://dev-neomoviefj2.pantheonsite.io/"
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
-window.location = randomItem;
+window.location = randomItem + param;
