@@ -8,6 +8,7 @@ var dataUrl = [
 'https://wavermerchandiseweird.com/k78nwxfv?key=e668079d92f5c385e97d9e9f30beedd3',
 'https://wavermerchandiseweird.com/ezuq8wdg?key=abe65c5f1fac7c85a5e79772f3e4b4ab',
 'https://wavermerchandiseweird.com/rmdh7vzvs?key=ed9adfc3b8491179ad53c3e027d8b8a9',
+  '//scammereating.com/sak2q36acm?key=6ed8eb6671883f3fef32e7207e19388f',
 'https://wavermerchandiseweird.com/mcq9dwrp?key=26877099e93b852a73d06043b22429bd',
 'https://wavermerchandiseweird.com/jrzhg39q?key=c57734d92ebaa11a56b389a5ea6dd78e',
 'https://wavermerchandiseweird.com/n970yii7c?key=434c6176282b18468a76f961e6a21764',
