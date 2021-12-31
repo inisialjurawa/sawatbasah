@@ -3,6 +3,7 @@ var dataUrl = [
 '//wavermerchandiseweird.com/imzgcwsh?key=d0d188da2017ef9ee01fb562798d386a',
 '//wavermerchandiseweird.com/h9wh6gqgf?key=83df023c116b0886f39e57dbd5e916f1',
 '//wavermerchandiseweird.com/vxqhu00qt?key=8b7db070bef4e6586092ffbbf28a9def',
+  'https://pjjpp.com/mobile_redir.php?section=General&pub=546788&ga=g&desktop=1',
 'https://wavermerchandiseweird.com/z0sfd1pts?key=2431d39c120107799ee55bcab97fc536',
 'https://wavermerchandiseweird.com/idt1y6nan?key=ce537f67a6c57e27e292db0da8179851',
 'https://wavermerchandiseweird.com/k78nwxfv?key=e668079d92f5c385e97d9e9f30beedd3',
