@@ -1,6 +1,5 @@
 var dataUrl = [
-'https://wavermerchandiseweird.com/z0sfd1pts?key=2431d39c120107799ee55bcab97fc536',
-'https://wavermerchandiseweird.com/idt1y6nan?key=ce537f67a6c57e27e292db0da8179851',
+'//anomalousporch.com/z84tdeyj5?key=cf9108918b929c0e8e6585863921bc00',
 'https://wavermerchandiseweird.com/k78nwxfv?key=e668079d92f5c385e97d9e9f30beedd3',
 'https://wavermerchandiseweird.com/ezuq8wdg?key=abe65c5f1fac7c85a5e79772f3e4b4ab',
 'https://wavermerchandiseweird.com/rmdh7vzvs?key=ed9adfc3b8491179ad53c3e027d8b8a9',
@@ -17,6 +16,7 @@ var dataUrl = [
 '//wavermerchandiseweird.com/qqqysyvbg?key=1d3303b4d7decb61514e9d25a740edfe',
 '//wavermerchandiseweird.com/ciwpm0hb7q?key=7f0434e3ed63cbba143ee2860b19fd5a',
 '//wavermerchandiseweird.com/tuf9tdkp?key=6729f99d594d33885cec1eb3981e92ac'
+'//anomalousporch.com/bcf9j7den?key=6f0346ec565f3485f607d1f027ca2032'
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
